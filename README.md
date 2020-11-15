@@ -1,10 +1,7 @@
 # WESAD
 
-DATASET: [Link 1][dataset_link_1]   -   [Link 2][dataset_link_2]
-
-
-
-
+## Dataset: 
+[Link 1][dataset_link_1]   -   [Link 2][dataset_link_2]
 
 <!-- Markdown link & img dfn's -->
 [dataset_link_1]: https://uni-siegen.sciebo.de/s/pYjSgfOVs6Ntahr
